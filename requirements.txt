@@ -1,0 +1,6 @@
+streamlit
+pandas
+janome
+scikit-learn
+matplotlib
+japanize-matplotlib
